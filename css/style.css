@@ -87,8 +87,6 @@ body, html{
   background-color: transparent;
 }
 
-
-
 /* Mobile View */
 @media(max-width: 568px){
   .pimg1, .pimg2, .pimg3 {
